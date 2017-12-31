@@ -2,6 +2,8 @@
 
 A [Loggly][0] transport for [winston][1].
 
+This is a Fork from winston-loggly-bulk
+
 [![Version npm](https://img.shields.io/npm/v/winston-loggly-bulk.svg?style=flat-square)](https://www.npmjs.com/package/winston-loggly-bulk)[![npm Downloads](https://img.shields.io/npm/dm/winston-loggly-bulk.svg?style=flat-square)](https://www.npmjs.com/package/winston-loggly-bulk)
 
 [![NPM](https://nodei.co/npm/winston-loggly-bulk.png?downloads=true&downloadRank=true)](https://nodei.co/npm/winston-loggly-bulk/)
